@@ -45,7 +45,7 @@
       <div>
 
         <a type="button" class="btn mybtn" href="#contact">Contact Me</a>
-        <a type="button" href="#" class="btn mybtn">Whatsapp</a>
+        <a type="button" href="https://api.whatsapp.com/send/?phone=7001518961&text=i%20want%20to%20 contact%20with%20you%20..." target='blank'>" class="btn mybtn">Whatsapp</a>
 
       </div>
     </div>
