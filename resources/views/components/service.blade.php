@@ -9,18 +9,18 @@
 <div class="row services">
   <div class="box-item col-md-4 mt-2">
     <div class="flip-box">
-      <div class="flip-box-front text-center" style="background-image:  url('../assets/img/depositphotos_223447894-stock-illustration-web-development-web-analytics-web.jpg')">
+      <div class="flip-box-front text-center" style="background-image:  url('../assets/img/depositphotos_56829111-stock-illustration-flat-responsive-web-design-concept.jpg')">
         <div class="inner color-white">
-          <h3 class="flip-box-header">Web Design</h3>
+          <h3 class="flip-box-header text-black">Web Design</h3>
      
          
         </div>
         </div>
 
-<div class="flip-box-back text-center" style="background-image: url('../assets/img/depositphotos_223447894-stock-illustration-web-development-web-analytics-web.jpg')">
+<div class="flip-box-back text-center" style="background-image: url('../assets/img/8bcacf6ee1ac43959288f6f80c669191324bbc36.jpeg')">
   <div class="inner color-white">
 <h3 class="flip-box-header">web design</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit nobis dicta alias, officiis explicabo unde corporis incidunt</p>
+<p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit nobis dicta alias, officiis explicabo unde corporis incidunt</p>
 <button class="myservicebtn">Know More</button>
 
 
@@ -32,15 +32,15 @@
     </div>
   <div class="box-item col-md-4 mt-2">
     <div class="flip-box">
-      <div class="flip-box-front text-center" style="background-image:  url('../assets/img/depositphotos_223447894-stock-illustration-web-development-web-analytics-web.jpg')">
+      <div class="flip-box-front text-center" style="background-image:  url('../assets/img/live-commerce-the-show-host-explains-the-product-and-the-cameraman-is-shooting-free-vector.jpg')">
         <div class="inner color-white">
-          <h3 class="flip-box-header">Hosting</h3>
+          <h3 class="flip-box-header text-black">Live Hosting</h3>
          
      
         </div>
         </div>
 
-<div class="flip-box-back text-center" style="background-image: url('../assets/img/depositphotos_223447894-stock-illustration-web-development-web-analytics-web.jpg')">
+<div class="flip-box-back text-center" style="background-image: url('../assets/img/pexels-brett-sayles-2881233.jpg')">
   <div class="inner color-white">
 <h3 class="flip-box-header"> Hosting</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit nobis dicta alias, officiis explicabo unde corporis incidunt</p>
@@ -55,18 +55,18 @@
     </div>
   <div class="box-item col-md-4 mt-2">
     <div class="flip-box">
-      <div class="flip-box-front text-center" style="background-image: url('../assets/img/depositphotos_223447894-stock-illustration-web-development-web-analytics-web.jpg')">
+      <div class="flip-box-front text-center" style="background-image: url('../assets/img/app.jpg')">
         <div class="inner color-white">
-          <h3 class="flip-box-header">Web Devlopment</h3>
+          <h3 class="flip-box-header text-dark">APP </h3>
        
    
         </div>
         </div>
 
-<div class="flip-box-back text-center" style="background-image:://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&dpr=2&')">
+<div class="flip-box-back text-center"  style="background-image: url('../assets/img/pexels-marek-levak-2265482.jpg')">
   <div class="inner color-white">
-<h3 class="flip-box-header">web Devlopment</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit nobis dicta alias, officiis explicabo unde corporis incidunt</p>
+<h3 class="flip-box-header">APP</h3>
+<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit nobis dicta alias, officiis explicabo unde corporis incidunt</p>
 <button class="myservicebtn">Know More</button>
 
 
@@ -78,7 +78,7 @@
     </div>
   <div class="box-item col-md-4 mt-2">
     <div class="flip-box">
-      <div class="flip-box-front text-center" style="background-image: url('../assets/img/depositphotos_223447894-stock-illustration-web-development-web-analytics-web.jpg')">
+      <div class="flip-box-front text-center" style="background-image: url('../assets/img/sss.jpg')">
         <div class="inner color-white">
           <h3 class="flip-box-header"> </h3>
        
@@ -86,9 +86,9 @@
         </div>
         </div>
 
-<div class="flip-box-back text-center" style="background-image:url url('../assets/img/depositphotos_223447894-stock-illustration-web-development-web-analytics-web.jpg')">
+<div class="flip-box-back text-center" style="background-image: url('../assets/img/pexels-sora-shimazaki-5935791.jpg')">
   <div class="inner color-white">
-<h3 class="flip-box-header">web devloper</h3>
+<h3 class="flip-box-header">Security</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit nobis dicta alias, officiis explicabo unde corporis incidunt</p>
 <button class="myservicebtn">Know More</button>
 
@@ -101,9 +101,9 @@
     </div>
   <div class="box-item col-md-4 mt-2">
     <div class="flip-box">
-      <div class="flip-box-front text-center" style="background-image: url('https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&dpr=2&')">
+      <div class="flip-box-front text-center" style="background-image: url('../assets/img/shane-rounce-DNkoNXQti3c-unsplash.jpg')">
         <div class="inner color-white">
-          <h3 class="flip-box-header">Support</h3>
+          <h3 class="flip-box-header text-dark">Support</h3>
         
         </div>
         </div>
@@ -123,15 +123,15 @@
     </div>
   <div class="box-item col-md-4 mt-2">
     <div class="flip-box">
-      <div class="flip-box-front text-center" style="background-image: url('https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=240')">
+      <div class="flip-box-front text-center"  style="background-image: url('../assets/img/oppo-BI0tdf32fcs-unsplash.jpg')">
         <div class="inner color-white">
           <h3 class="flip-box-header">Maintance</h3>
  
      
         </div>
         </div>
-
-<div class="flip-box-back text-center" style="background-image:url('https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=200&w=240')">
+        
+<div class="flip-box-back text-center" style="background-image:url('https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&dpr=2&')">
   <div class="inner color-white">
 <h3 class="flip-box-header">Maintance</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit nobis dicta alias, officiis explicabo unde corporis incidunt</p>

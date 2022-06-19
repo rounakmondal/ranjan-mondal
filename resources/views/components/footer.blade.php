@@ -22,9 +22,16 @@
   </footer><!-- End Footer -->
 
   <div id="preloader"></div>
+
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+	
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js" integrity="sha512-VEd+nq25CkR676O+pLBnDW09R7VQX9Mdiij052gVCp5yVH3jGtH70Ho/UUv4mJDsEdTvqRCFZg0NKGiojGnUCw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
   <!-- Vendor JS Files -->
+ 
+
   <script src="assets/vendor/purecounter/purecounter.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -41,6 +48,39 @@
   <script src="assets/js/particles.js"></script>
   <script src="assets/js/app.js"></script>
 
+  <script>
+    $(document).ready(function() {
+
+  
+      toastr.options = {
+                  'closeButton': true,
+                  'debug': false,
+                  'newestOnTop': false,
+                  'progressBar': true,
+                  'positionClass': 'toast-top-right',
+                  'preventDuplicates': false,
+                  'showDuration': '1000',
+                  'hideDuration': '1000',
+                  'timeOut': '5000',
+                  'extendedTimeOut': '1000',
+                  'showEasing': 'swing',
+                  'hideEasing': 'linear',
+                  'showMethod': 'fadeIn',
+                  'hideMethod': 'fadeOut',
+              }
+          
+        toastr.options.timeOut =8000;
+        @if (Session::has('error'))
+            toastr.error('{{ Session::get('error') }}');
+        @elseif(Session::has('success'))
+            toastr.success('{{ Session::get('success') }}');
+        @elseif(Session::has('info'))
+            toastr.info('{{ Session::get('info') }}');
+        @endif
+       
+    });
+    
+    </script>
 </body>
 
 </html>

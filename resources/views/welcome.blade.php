@@ -100,4 +100,5 @@
 <x-contact/>
 
   </main>
+
 <x-footer/>

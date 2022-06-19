@@ -5,7 +5,7 @@ $('.chat_icon').click(function(event) {
     
     });
 $(document).ready(function() {
-    alert('i am ranjan mondal');
+
     questionFirst=$('[data-question]:first').attr('data-question');
     $('#chatlist ul').append('<li class="admin_message">'+questionFirst+'</li>');
     $('[data-question]:first').appendTo('.admin_message');
